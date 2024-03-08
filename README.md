@@ -1,4 +1,3 @@
 # myReactApp
 React application
-
-adjust read me message
+bla bla bla
