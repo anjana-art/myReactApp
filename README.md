@@ -1,2 +1,3 @@
 # myReactApp
-React app
+React application
+
